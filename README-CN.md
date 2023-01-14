@@ -102,6 +102,7 @@
 ### 3.2 启动工具箱：
 `python demo_toolbox.py -d <datasets_root>`
 > 请指定一个可用的数据集文件路径，如果有支持的数据集则会自动加载供调试，也同时会作为手动录制音频的存储目录。
+> dataset下载地址：http://www.openslr.org/12/
 
 <img width="1042" alt="d48ea37adf3660e657cfb047c10edbc" src="https://user-images.githubusercontent.com/7423248/134275227-c1ddf154-f118-4b77-8949-8c4c7daf25f0.png">
 
